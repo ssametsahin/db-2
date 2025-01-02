@@ -1,1 +1,1 @@
-# db-2
+# Online Test Platformu Veritabanı Şeması
