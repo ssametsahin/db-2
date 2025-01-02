@@ -62,8 +62,8 @@ Daha fazla bilgi için, [tıklayınız](https://www.mysql.com/)
 - Kolonlar:
   - `id`: Benzersiz cevap kimliği.
   - `question_id`: Cevabın ait olduğu soru (foreign key).
-  - `option`: Cevap seçeneği.
-  - `is_correct`: Doğru cevap olup olmadığını belirtir.
+  - `option-a(b-c-d)`: Cevap seçeneği.
+  - `correct_answer`: Doğru cevap olup olmadığını belirtir.
 
 ### 9. `results`
 - Öğrencilerin test sonuçlarını tutar.
