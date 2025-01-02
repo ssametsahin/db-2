@@ -8,7 +8,7 @@ Daha fazla bilgi için, [tıklayınız](https://www.mysql.com/)
 
 ## Tablo Açıklamaları
 
-##### users
+### users
 
 Kullanıcı bilgilerini saklar.
 
